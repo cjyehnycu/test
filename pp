@@ -2,3 +2,5 @@
 456
 
 
+clc
+clear
