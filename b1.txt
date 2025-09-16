@@ -4,12 +4,4 @@ line 2: 456
 b2 branch add
 line 3: 789
 
-b1
-{
-    b1...
-}
 
-b2
-{
-    b2...
-}
