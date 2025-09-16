@@ -1,5 +1,6 @@
 line 1: 123
 b1 branch add
 line 2: 456
+b2 branch add
 line 3: 789
 
