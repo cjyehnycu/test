@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 line 1: 123
 b1 branch add
 line 2: 456
 line 3: 789
-=======
-b1b1b1b1b1b1b1b1
->>>>>>> parent of 5cbe867 (Update b1.txt)
+
