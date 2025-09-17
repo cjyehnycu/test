@@ -5,5 +5,10 @@ b2 branch add
 line 3: 789
 
 //b1
+(b1)(b3)
+b1
+{
+    b1...
+}
 
 //b2
