@@ -6,3 +6,7 @@ b2 branch add
 line 3: 789
 
 
+b2
+{
+
+}
